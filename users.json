@@ -1,0 +1,18 @@
+[
+  {
+    "id": "56d85615-3a10-4eac-969e-a7cf9437fc03",
+    "email": "liangwang08008@126.com",
+    "password_hash": "$2a$10$7jQpooRov49.h6B6XX6THe70YdmbYU4xVuKV5.BGIiFwGaZx1yvie",
+    "provider_credentials": [
+      {
+        "id": "a49f3b60-79b8-4c3c-b7de-28197ea322f0",
+        "email": "liangwang08008@126.com",
+        "full_name": "Initial Onboarding User credentials",
+        "provider_name": "GitHub",
+        "type": "github",
+        "remote_host": "github.com",
+        "encrypted_api_token": "M/lYkE8PfS1WbJkkeLUg/TBwMm16uOQixuRD2QRdjdzIHz3akOnoX0X9rZr8\neJ9hbfAWfFwZiV9clmkbCUWnqA==\n"
+      }
+    ]
+  }
+]
